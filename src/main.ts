@@ -1,10 +1,10 @@
 import "./style.css";
 
-const ahorros = 18;
+const bebidas = 18;
 const ticket = 120;
 const comensales = 6;
 
-const totalCuenta = ticket - ahorros;
+const totalCuenta = ticket - bebidas;
 
 console.log("Total de la cuenta invitando a las bebidas: " + totalCuenta + "€");
 console.log(
